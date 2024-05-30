@@ -237,4 +237,4 @@
 
   setActive();
 
-</script>Чере
+</script>

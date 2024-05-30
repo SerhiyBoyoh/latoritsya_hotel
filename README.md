@@ -1,0 +1,1 @@
+# latoritsya_hotel
